@@ -5,7 +5,7 @@ if($num>5){
 }
 ?> -->
 
-<?php
+<!-- <?php
 $fruit = "apple";
 
 if ($fruit == "apple") {
@@ -19,5 +19,31 @@ if ($fruit == "apple") {
 } else {
     echo "This is some other fruit.";
 }
-?>
+?> -->
+<!-- 
+<?php
+$age=15;
+echo($age<18)?'child':'adult';
+?> -->
 
+<?php
+$char = 'a';
+
+switch ($char) {
+    case 'a':
+    case 'e':
+    case 'i':
+    case 'o':
+    case 'u':
+    case 'A':
+    case 'E':
+    case 'I':
+    case 'O':
+    case 'U':
+        echo "$char is a vowel.";
+        break;
+    default:
+        echo "$char is a consonant.";
+        break;
+}
+?>
