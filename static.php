@@ -12,7 +12,7 @@
         echo $x;
         $x++;
     }
-    myTest();
+    myTest(); 
     echo "<br>";
     myTest();
     echo "<br>";
