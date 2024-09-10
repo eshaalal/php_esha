@@ -10,16 +10,16 @@
                 echo 'Case 2 was executed.';
                 break;
             case 3:
-                    if($x==3)
-                    echo 'Case 3 was executed.';
-                    break;
+                if($x==3)
+                echo 'Case 3 was executed.';
+                break;
             case 4:
-                        if($x==4)
-                        echo 'Case 4 was executed.';
-                        break;
+                if($x==4)
+                echo 'Case 4 was executed.';
+                break;
             default:
-             echo 'Default was exec';
-             break;
+                echo 'Default was exec';
+                break;
         }
     }
     A1(9);
