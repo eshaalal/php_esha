@@ -34,7 +34,7 @@ step 9- force user give your gmail
 9. write username as gmail
 10. write password as gmail password
 11. save and close sendmail.ini
-12. restart xampp server
+12. restart xampp server 
 13. write the code in index.php
 14. run the code in browser
 15. check the email
